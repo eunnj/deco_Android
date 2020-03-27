@@ -1,0 +1,2 @@
+rootProject.name='deco_Android'
+include ':app'
